@@ -1,4 +1,4 @@
-# Getting started
+# Getting started with Meowlnir
 
 Meowlnir doesn't currently create management rooms automatically, so you'll be
 asked to create one as a part of the application process and provide the room

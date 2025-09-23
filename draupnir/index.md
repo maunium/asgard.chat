@@ -1,4 +1,4 @@
-# Getting started
+# Getting started with Draupnir
 
 After your request for a Draupnir bot is approved, start a direct chat with
 [@draupnir-main:asgard.chat](https://matrix.to/#/@draupnir-main:asgard.chat).
