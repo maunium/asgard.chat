@@ -26,7 +26,7 @@ It is trusted by many; for example the Debian and Ubuntu communities. This list 
 
 ### Project Huginn and Muninn Active Threats (CAT):
 
-This list is maintained by the matrix community itself and contains ACL's for servers which are actively used in attacks.
+This list is maintained by the matrix community itself and contains ACLs for servers which are actively used in attacks.
 This list is really fast and all servers are manually checked before they are added.
 #### The policy room is: [#huginn-muninn-active-threats:feline.support](https://matrix.to/#/#huginn-muninn-active-threats:feline.support)
 
