@@ -11,4 +11,4 @@ policy lists and protecting rooms: <https://docs.mau.fi/meowlnir/bot-config.html
 If you have questions that aren't covered by the docs or the help command, you can:
 
 * Ask in the general Asgard chat [#general:asgard.chat](https://matrix.to/#/#general:asgard.chat)
-* Ask in the official Draupnir room [#meowlnir:maunium.net](https://matrix.to/#/#meowlnir:maunium.net)
+* Ask in the official Meowlnir room [#meowlnir:maunium.net](https://matrix.to/#/#meowlnir:maunium.net)
