@@ -11,7 +11,7 @@ To ban a user via your bot, run the following command in your management room:
 ```
 !draupnir ban <user_ID> <list> <reason>
 ```
-For example, if you want to ban the user `@example:example.org` on your default list for the reason"spam", then the command would look like this:
+For example, if you want to ban the user `@example:example.org` on your default list for the reason "spam", then the command would look like this:
 ```
 !draupnir ban @example:example.org list spam
 ```
