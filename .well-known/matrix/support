@@ -1,0 +1,21 @@
+{
+	"contacts": [
+		{
+			"matrix_id": "@tulir:maunium.net",
+			"role": "m.role.admin"
+		},
+		{
+			"matrix_id": "@sky:codestorm.net",
+			"role": "m.role.admin"
+		},
+		{
+			"matrix_id": "@cat:feline.support",
+			"role": "m.role.admin"
+		},
+		{
+			"matrix_id": "@nex:nexy7574.co.uk",
+			"role": "m.role.admin"
+		}
+	],
+	"support_page": "https://asgard.chat"
+}
