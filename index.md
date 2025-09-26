@@ -36,3 +36,18 @@ chose:
 
 * [Getting started with Draupnir](./draupnir/index.md)
 * [Getting started with Meowlnir](./meowlnir/index.md)
+
+## Who?
+Asgard is maintained by [Tulir], [Sky], [Cat], and [Nex]. The server and domain
+are funded by Tulir.
+
+Meowlnir is primarily developed by Tulir and Draupnir by [Gnuxie]. If you use
+Draupnir (or even if you don't and just want to support moderation bot development),
+we recommend sponsoring Gnuxie on [GitHub sponsors](https://github.com/sponsors/Gnuxie)
+or [Ko-fi](https://ko-fi.com/gnuxie).
+
+[Tulir]: https://github.com/tulir
+[Sky]: https://github.com/ll-SKY-ll
+[Cat]: https://github.com/FSG-Cat
+[Nex]: https://github.com/nexy7574
+[Gnuxie]: https://github.com/Gnuxie
