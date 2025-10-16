@@ -10,12 +10,12 @@ For example, if the alias of your room would be `#example:example.org`, then the
 ```
 !draupnir rooms add #example:example.org
 ```
-Alternatively you can invite the bot to your room and then follow the prompts in the management room.  
+Alternatively, you can invite the bot to your room and then follow the prompts in the management room.  
 
 ### Giving the bot the necessary permissions
 
 Usually, you want your bot to be able to ban people and servers in your room.  
-For that, the bot permissions to send the following events:
+For that, the bot needs permissions to send the following events:
 * `ban`
 * `m.room.server_acl`
 
