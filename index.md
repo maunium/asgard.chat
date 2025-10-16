@@ -39,7 +39,7 @@ chose:
 
 ## Who?
 Asgard is maintained by [Tulir], [Sky], [Cat], and [Nex]. The server and domain
-are funded by Tulir.
+are funded by Tulir and Sky.
 
 Meowlnir is primarily developed by Tulir and Draupnir by [Gnuxie]. If you use
 Draupnir (or even if you don't and just want to support moderation bot development),
