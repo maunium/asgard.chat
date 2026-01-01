@@ -23,6 +23,11 @@ This list is maintained by the Matrix community itself and contains spammer & sc
 It is trusted by many; for example the Debian and Ubuntu communities. This list is generally really fast and has an extremely low rate of false positives. Any false positives get removed as soon as managers are made aware of them.
 #### The policy room is: [#community-moderation-effort-bl:neko.dev](https://matrix.to/#/#community-moderation-effort-bl:neko.dev)
 
+### Codestorm auto open reg policy list (CS-open):
+
+This list is maintained by [Sky](https://matrix.to/#/@sky:codestorm.net) and contains ACLs for servers which have dangerously unsafe registration requirements and are therefore very likely to be used for spam attacks.
+This list is completely automated, both in terms of bans and unbans. 
+#### The policy room is: [#cs-auto-open_reg:codestorm.net](https://matrix.to/#/#cs-auto-open_reg:codestorm.net)
 
 ### Project Huginn and Muninn Active Threats (CAT):
 
