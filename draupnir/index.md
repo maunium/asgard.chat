@@ -1,10 +1,6 @@
 # Getting started with Draupnir
 
-After your request for a Draupnir bot is approved, start a direct chat with
-[@draupnir-main:asgard.chat](https://matrix.to/#/@draupnir-main:asgard.chat).
-The bot will reject the invite and invite you to a new management room with
-your own Draupnir instance. The user ID of your Draupnir will be of the form
-`@draupnir_<uuid>:asgard.chat`.
+After your request for a Draupnir bot is approved, you will get 2 invites from the moderation bot. Accept the invites to complete the initial setup.
 
 After joining the management room, see the other pages under Draupnir in the
 sidebar for basic usage instructions. You can use `!help` to see a full list
