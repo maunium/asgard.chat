@@ -1,3 +1,5 @@
 {
-	"public_key": "Rhzl96kt6JTZ3ah3+Sea4GDiLxDUCu4TANhVVfYjOVQ"
+	"public_keys": {
+		"ed25519": "Rhzl96kt6JTZ3ah3+Sea4GDiLxDUCu4TANhVVfYjOVQ"
+	}
 }
