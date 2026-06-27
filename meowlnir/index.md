@@ -16,8 +16,8 @@ The most important command to get started is `!join <id or alias>` followed by
 
 The bot will be subscribed to the Community Moderation Effort (CME) and Cat's
 Active Threats (CAT) lists by default. You're free to unsubscribe from them,
-but we strongly encourage keeping them. To modify watched policy lists, you
-currently have to edit the `fi.mau.meowlnir.watched_lists` state event by hand.
+but we strongly encourage keeping them. If you want to watch additional policy
+lists, use `!lists subscribe <id or alias>`.
 
 If you have questions that aren't covered by the docs or the help command, you can:
 
