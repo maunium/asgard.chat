@@ -49,5 +49,5 @@ or [Ko-fi](https://ko-fi.com/gnuxie).
 [Tulir]: https://github.com/tulir
 [Sky]: https://github.com/ll-SKY-ll
 [Cat]: https://github.com/FSG-Cat
-[Nex]: https://github.com/nexy7574
+[Nex]: https://github.com/timedoutuk
 [Gnuxie]: https://github.com/Gnuxie
